@@ -1,0 +1,7 @@
+
+gradio
+openai-whisper
+ffmpeg-python
+transformers
+fpdf
+torch
